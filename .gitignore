@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+data/incoming/*.pdf
+output/extracted_text/*.txt
+.DS_Store
